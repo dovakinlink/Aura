@@ -65,7 +65,7 @@ void AAuraPlayerController::CursorTrace()
 		}
 	}
 	else // LastActor is valid
-	{
+	{ 
 		if (ThisActor == nullptr)
 		{
 			// Case C
